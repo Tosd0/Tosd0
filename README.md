@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2057%20mins-blue)
