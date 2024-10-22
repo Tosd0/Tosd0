@@ -1,15 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2040%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2024
+> 🏆 108 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,17 +21,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        █████████████████████████   100.00 % 
+Other                    2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notion                   54 mins             ███████████████░░░░░░░░░░   60.85 % 
-Notes                    35 mins             ██████████░░░░░░░░░░░░░░░   39.15 % 
+Notion                   1 hr 29 mins        ██████████████████░░░░░░░   71.63 % 
+Notes                    35 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-handle    1 hr 30 mins        █████████████████████████   100.00 % 
+nonebot-plugin-handle    2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -48,5 +46,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 01:43:39 UTC
+ Last Updated on 22/10/2024 01:42:22 UTC
 <!--END_SECTION:waka-->
