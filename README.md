@@ -9,8 +9,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -54,5 +52,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2024 01:39:14 UTC
+ Last Updated on 07/11/2024 01:39:41 UTC
 <!--END_SECTION:waka-->
