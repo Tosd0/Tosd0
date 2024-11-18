@@ -1,15 +1,15 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2027%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 136 Contributions in the Year 2024
+> 🏆 137 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,17 +23,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 mins             █████████████████████████   100.00 % 
+Other                    1 hr 1 min          █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notion                   15 mins             ██████████████████████░░░   87.98 % 
-Notes                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Notion                   39 mins             ████████████████░░░░░░░░░   64.19 % 
+Notes                    22 mins             █████████░░░░░░░░░░░░░░░░   35.81 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-osu-match-17 mins             █████████████████████████   100.00 % 
+nonebot-plugin-osu-match-1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -48,5 +48,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2024 01:50:59 UTC
+ Last Updated on 18/11/2024 01:48:59 UTC
 <!--END_SECTION:waka-->
