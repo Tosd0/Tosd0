@@ -1,15 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2013%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 137 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,5 +46,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2024 01:48:59 UTC
+ Last Updated on 19/11/2024 01:46:39 UTC
 <!--END_SECTION:waka-->
