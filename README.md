@@ -1,15 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 158 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,14 +39,14 @@ Mac                      42 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ████████████████░░░░░░░░░   63.16 % 
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   12 repos            █████████████████░░░░░░░░   66.67 % 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 09/12/2024 01:53:32 UTC
+ Last Updated on 10/12/2024 01:51:58 UTC
 <!--END_SECTION:waka-->
