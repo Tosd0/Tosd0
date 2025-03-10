@@ -1,13 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-406.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-408.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2025
+> 🏆 241 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,17 +21,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 20 mins        ██████████████████████░░░   87.39 % 
-HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SillyTavern              1 hr 32 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -46,5 +45,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2025 00:54:46 UTC
+ Last Updated on 10/03/2025 00:44:45 UTC
 <!--END_SECTION:waka-->
