@@ -1,13 +1,11 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 312 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,28 +19,31 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 56 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+ChatGPT                  41 mins             █████████░░░░░░░░░░░░░░░░   35.14 % 
+Notes                    33 mins             ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Ghostty                  22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+WeCom                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SillyTavern              1 hr 56 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████░░░░░░░░░░   61.90 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   14 repos            ████████████████░░░░░░░░░   63.64 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
 
 
- Last Updated on 24/03/2025 00:56:40 UTC
+ Last Updated on 31/03/2025 00:58:42 UTC
 <!--END_SECTION:waka-->
