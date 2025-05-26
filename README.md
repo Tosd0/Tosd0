@@ -1,13 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 620 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,17 +21,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 4 mins         █████████████████████████   100.00 % 
+Other                    55 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notes                    52 mins             ████████████████████░░░░░   81.75 % 
-WeCom                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+WeCom                    55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SillyTavern              1 hr 4 mins         █████████████████████████   100.00 % 
+SillyTavern              55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,5 +44,5 @@ Java                     3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 19/05/2025 01:02:03 UTC
+ Last Updated on 26/05/2025 01:00:45 UTC
 <!--END_SECTION:waka-->
