@@ -1,13 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 761 Contributions in the Year 2025
+> 🏆 769 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,17 +21,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 19 mins       █████████████████████████   100.00 % 
+Other                    51 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-WeCom                    2 hrs 12 mins       █████████████████░░░░░░░░   66.50 % 
-Notes                    1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   33.50 % 
+WeCom                    51 mins             █████████████████████████   99.94 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-SillyTavern              3 hrs 19 mins       █████████████████████████   100.00 % 
+SillyTavern              51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,5 +45,5 @@ Java                     3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 01:03:28 UTC
+ Last Updated on 16/06/2025 01:02:46 UTC
 <!--END_SECTION:waka-->
