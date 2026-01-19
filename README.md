@@ -1,13 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473.91%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-472.21%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2026
+> 🏆 47 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,16 +21,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 24 mins             ██████████████████████░░░   88.79 % 
+Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Edge                     28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+clash-verge-rev          17 mins             ████████████████░░░░░░░░░   63.47 % 
+BDIC-SE-KnowledgeBase    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+DaigakuNotes             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+PCL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+ACL4SSR                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -46,5 +51,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2026 01:08:27 UTC
+ Last Updated on 19/01/2026 01:09:51 UTC
 <!--END_SECTION:waka-->
