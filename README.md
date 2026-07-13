@@ -1,13 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,068 Contributions in the Year 2026
+> 🏆 1,083 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,35 +21,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    50 hrs 34 mins      ██████████████████░░░░░░░   71.47 % 
-Markdown                 6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-C#                       4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-TypeScript               4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-JavaScript               2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other                    15 hrs 3 mins       ██████████████████████░░░   88.63 % 
+C#                       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+TypeScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Chrome                   48 hrs 37 mins      █████████████████░░░░░░░░   68.71 % 
-Claude Code              9 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Ghostty                  7 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-VS Code                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Obsidian                 1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Chrome                   12 hrs 58 mins      ███████████████████░░░░░░   76.26 % 
+Ghostty                  2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Claude Code              1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      70 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-JavaScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   14 repos            ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+JavaScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
 
 
- Last Updated on 06/07/2026 02:18:26 UTC
+ Last Updated on 13/07/2026 01:59:26 UTC
 <!--END_SECTION:waka-->
