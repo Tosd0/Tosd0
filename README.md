@@ -1,13 +1,13 @@
 ## 你好 👋 Hi there! こんにちは ☺️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,844 Contributions in the Year 2026
+> 🏆 1,923 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,60 +21,59 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    28 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.11 % 
-Python                   17 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-TypeScript               4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Markdown                 3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Other                    24 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.00 % 
+Wikitext                 12 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Markdown                 11 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Python                   6 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+TypeScript               3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 42 mins      ██████████████░░░░░░░░░░░   56.59 % 
-Chrome                   15 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-Ghostty                  9 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-VS Code                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              30 hrs 52 mins      █████████████░░░░░░░░░░░░   50.93 % 
+Chrome                   15 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Ghostty                  10 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+VS Code                  1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+IntelliJ IDEA            1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Mac                      59 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      60 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 39 mins (64.92%)
+⏱ AI Coding Time: 37 hrs 28 mins (61.84%)
 
-✍️ 32,896 lines written by AI, 9 lines written by hand (99.97% AI-written)
+✍️ 14,913 lines written by AI, 305 lines written by hand (98.0% AI-written)
 
-🔤 36,548,561 Input Tokens, 5,969,255 Output Tokens
+🔤 22,872,336 Input Tokens, 3,610,305 Output Tokens
 
-💵 $1108.39 Estimated AI Cost This Week
+💵 $706.40 Estimated AI Cost This Week
 
-🧠 339 AI Sessions, 746 AI Prompts
+🧠 53 AI Sessions, 425 AI Prompts
 
-Opus                     33,179 lines        ████████████████████████░   97.95 % 
-Sonnet                   520 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Fable                    176 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    9,360 lines         ███████████████░░░░░░░░░░   59.08 % 
+Opus                     5,089 lines         ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Sonnet                   1,394 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 3,547 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 98.0% of written lines came from AI
+📄 Detailed Prompter — average 1,189 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-JavaScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+JavaScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 31/08/2026 02:44:31 UTC
+ Last Updated on 07/09/2026 02:13:43 UTC
 <!--END_SECTION:waka-->
