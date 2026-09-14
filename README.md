@@ -7,7 +7,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,923 Contributions in the Year 2026
+> 🏆 1,925 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,45 +21,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.00 % 
-Wikitext                 12 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Markdown                 11 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Python                   6 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-TypeScript               3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Python                   24 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
+Other                    20 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Markdown                 11 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Wikitext                 5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+JavaScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-Claude Code              30 hrs 52 mins      █████████████░░░░░░░░░░░░   50.93 % 
-Chrome                   15 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Ghostty                  10 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-VS Code                  1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-IntelliJ IDEA            1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Claude Code              38 hrs 26 mins      ██████████████░░░░░░░░░░░   57.81 % 
+Ghostty                  15 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Chrome                   10 hrs 21 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Codex CLI                1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+VS Code                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      60 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      66 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 28 mins (61.84%)
+⏱ AI Coding Time: 48 hrs 43 mins (73.28%)
 
-✍️ 14,913 lines written by AI, 305 lines written by hand (98.0% AI-written)
+✍️ 31,577 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 22,872,336 Input Tokens, 3,610,305 Output Tokens
+🔤 36,321,413 Input Tokens, 5,820,711 Output Tokens
 
-💵 $706.40 Estimated AI Cost This Week
+💵 $983.63 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 425 AI Prompts
+🧠 91 AI Sessions, 736 AI Prompts
 
-Fable                    9,360 lines         ███████████████░░░░░░░░░░   59.08 % 
-Opus                     5,089 lines         ████████░░░░░░░░░░░░░░░░░   32.12 % 
-Sonnet                   1,394 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Opus                     20,037 lines        ████████████████░░░░░░░░░   62.55 % 
+GPT                      6,433 lines         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Fable                    4,225 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Deepseek                 1,338 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.0% of written lines came from AI
-📄 Detailed Prompter — average 1,189 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 649 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.94% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +77,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 02:13:43 UTC
+ Last Updated on 14/09/2026 02:47:48 UTC
 <!--END_SECTION:waka-->
